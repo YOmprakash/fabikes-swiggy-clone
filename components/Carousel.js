@@ -10,6 +10,7 @@ const Carousel = () => {
   ];
   return (
     <View>
+  
       <SliderBox
         images={images}
        autoPlay
